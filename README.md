@@ -25,10 +25,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+Java, C++, some GDScript, and very little C#
 
 2. Game development (any engine)
+Godot
 
 3. Unity
+Only know basic navigation
 
 ### Programming & Game Development Concepts
 
