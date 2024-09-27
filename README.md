@@ -43,14 +43,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+A document where information about a game and its art, story and general gameplay is held. 
 
 2. Scope management
+N/A
 
 3. Iteration
+N/A
 
 4. Object-Oriented programming
+This type of programming makes use of class objects that are usually defined by the user. It generally makes programs more readable and take up less lines under this form of programming.
 
 5. Model-View-Controller architecture
+N/A
 
 ## Complete!
 
