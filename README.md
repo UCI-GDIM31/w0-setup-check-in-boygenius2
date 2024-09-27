@@ -5,18 +5,18 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+1. I am a transfer student from Cerritos College, and I'm more interested in platform fighters and maybe some shooter games. My preferred name is Ivan, mainly because I've had teachers think my first name is Andres according to their roll call sheet when it really isn't, and my pronouns are he/him. Two games I play the most are Smash Ultimate and Happy Wheels (I've made and publish some levels there, and I also speedrun its iOS version!), and I am taking this class to gain some additional skills for game programming, as I have somewhat self-taught myself how to use Godot.
 
-2. Which of the following best describes your major? Please specify if not GDIM.  
-
-    - [ ] Game Design & Interactive Media
+2.
+    - [X] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+3. Aside from learning another game engine, I hope to transfer the skills I learn from this class to my current knowledge of Godot.
+
+4. Not sure if I can think of anything at this point.
 
 ## Prior Experience
 
